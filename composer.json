@@ -27,7 +27,7 @@
         "symfony/framework-bundle": "^3.4.30|^4.3.3"
     },
     "require-dev": {
-        "doctrine/coding-standard": "^6.0",
+        "oldpak/coding-standard": "^1.0",
         "oldpak/orm": "^1.0",
         "ocramius/proxy-manager": "^2.1",
         "php-coveralls/php-coveralls": "^2.1",
